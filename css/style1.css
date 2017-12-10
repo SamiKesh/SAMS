@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+@import url('https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700');
+@import url('https://fonts.googleapis.com/css?family=Fugaz+One');
+
+body
+{
+	margin:0;
+	
+}
+header{
+	background:black;
+	color:white;
+	padding:8px 0px 6px 40px;
+	height:55px;
+}
+header h1 {
+	display:inline;
+	font-family:'Oswald', sans-serif;
+	font-weight:1500;
+	font-size:25px;
+	float:left;
+	margin-top:0px;
+	margin-right:10px;
+	
+}
+nav ul {
+	display:inline;
+	padding:0px;
+	float:left;
+}
+nav ul li {
+	display:inline-block;
+	list-style:none;
+	color:white;
+	float:left;
+	margin-left:12px;
+	
+}
+nav ul li a{
+	color:white;
+	text-decoration:none;
+}
+#nav{	
+font-family: 'Montserrat', sans-serif;
+}
+.homered{
+	background-color:red;
+	padding:30px 10px 28px 10px;
+}
+.divider{
+	background-color:red;
+	height:7px;
+}
+
+.homeblack:hover {
+	background-color:blue;
+	padding:30px 10px 28px 10px;
+}
+.homesub
+{
+font-family: 'Raleway', sans-serif;
+font-size:88px;
+margin:0.2% 0% 0% 5%;
+color:white;
+text-align:center;
+background-color:rgba(0,0,0,0.6);
+display:inline-block;
+}
+p{
+	font-size:30px;
+font-family: 'Open Sans Condensed', sans-serif;
+	margin:0 auto;
+}
+select
+{
+	display:block;
+	margin:0 auto;
+}

@@ -1,0 +1,52 @@
+#main-wrapper{
+width:500px;
+margin:0 auto;
+background-color:orange;
+padding:5px;
+border-radius:10px;
+border:1px solid #2c3e50;
+}
+.im1{
+	width:150px;
+	text-align:center;
+	
+}
+
+.myform{
+	width:450px;
+	margin:0 auto;
+	
+}
+
+.userselect{
+	margin-top:10px;
+	margin-bottom:10px;
+	width:445px;
+	margin:0 auto;
+	padding:5px;
+	
+}
+
+.inputvalues{
+	margin-top:10px;
+	margin-bottom:10px;
+	width:430px;
+	margin:0 auto;
+	padding:5px;
+	
+}
+#login_btn{
+	margin-top:10px;
+	background-color:navy;
+	padding:5px;
+	color:white;
+	width:445px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	
+}
+.sub input:hover {
+	background-color:PaleGreen;
+}
+
